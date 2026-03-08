@@ -5,7 +5,7 @@ This project offers an easy way to control your music using your hand and webcam
 ## Getting started
 ```bash
 git clone https://github.com/nander100/EE146-project.git
-cd EE EE146-project
+cd EE146-project
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
